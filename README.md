@@ -2,15 +2,15 @@
 <h2>Advantage:</h2>
 <ul>
   <li>Handle every invalid user input (Except blank input, newline)</li>
-  <li>Randomize enemy spawning</li>
+  <li>Randomize the puzzle everytime you play the game</li>
 </ul>
 
 <h2>Downside:</h2>
 <ul>
-  <li>Extremely based on luck game, created a cheat when player type "cheat" on his name.</li>
+  <li>doesn't accept mutliple input at a time, and require <q>enter</q> everytime to process the input.</li>
 </ul>
 
 <h3><ins>Milestone</ins></h3>
 <ul>
-  <li>Completed in 26/10/2024</li>
+  <li>Completed in 14/10/2024</li>
 </ul>
