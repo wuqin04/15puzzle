@@ -7,7 +7,7 @@
 
 <h2>Downside:</h2>
 <ul>
-  <li>doesn't accept mutliple input at a time, and require <q>enter</q> everytime to process the input.</li>
+  <li>doesn't accept mutliple input at a time, and require <small>enter</small> everytime to process the input.</li>
 </ul>
 
 <h3><ins>Milestone</ins></h3>
